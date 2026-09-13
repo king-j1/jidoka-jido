@@ -1,6 +1,6 @@
 import { Link } from "react-router-dom";
 import ijfProfile from "../assets/Screenshot from 2026-09-12 13-47-20.png"; // the screenshot you just sent
-import heroPoster from "../assets/jidoka ijf.jpg";
+import heroPoster from "../assets/jidoka-ijf.jpg";
 import actionImage from "../assets/jidoka1.jpg";
 import trainingImage from "../assets/jidoka2.jpg";
 
