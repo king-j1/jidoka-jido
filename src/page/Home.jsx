@@ -1,11 +1,11 @@
 import { Link } from "react-router-dom";
 
-import heroImage from "../assets/jidoka-ijf.jpg";
+import heroImage from "../assets/judoka-ijf.jpg";
 //import heroImage from "../assets/WhatsApp Image 2026-09-10 at 1.23.23 PM.jpeg";
-import podiumImage from "../assets/jidoka1.jpg";
+import podiumImage from "../assets/judoka1.jpg";
 import ijfLogo from "../assets/WhatsApp Image 2026-09-10 at 1.21.58 PM.jpeg";
-import trainingImage from "../assets/jidoka2.jpg";
-import actionImage from "../assets/jidoka-cert.jpg";
+import trainingImage from "../assets/judoka2.jpg";
+import actionImage from "../assets/judoka-cert.jpg";
 
 export default function Home() {
   return (
